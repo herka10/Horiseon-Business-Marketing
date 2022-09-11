@@ -1,8 +1,7 @@
-HOW TO USE REPOSITORY
-HTML code with CSS for styling and a mix of png and jpg images
+#Horiseon-Business-Marketing
 
-DESCRIPTION
-A website that is accessible for businesses in need of additional marketing
+##DESCRIPTION
+A website that is accessible for businesses in need of marketing services
 
-SCREENSHOT
-<img alt="a screenshot of Horiseon Business Marketing website" src="./images/01-html-css-git-homework-demo.png"/>
+##SCREENSHOT
+![This is an image](/assets/images/01-html-css-git-homework-demo.png)
